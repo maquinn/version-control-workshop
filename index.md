@@ -1,4 +1,5 @@
-#Group One
+
+workshop
 
 # Reading Room Manual
 
@@ -101,6 +102,8 @@ Examples of such platforms and networks include:
 # Commit
 
 # Pull Request
+
+A pull is when you are bringing changes from a remote repository to a local repository.  
 
 # Branch
 
