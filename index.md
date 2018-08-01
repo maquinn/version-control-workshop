@@ -1,3 +1,5 @@
+#Group One
+
 # Reading Room Manual
 
 Standardized practices for researchers handling archival materials are described below:
@@ -12,6 +14,8 @@ Standardized practices for researchers handling archival materials are described
 * They should not walk around the room with archival materials. The desk monitor should go to them to answer a question about the records.
 * They may not remove materials from the Reading Room.
 * They should always leave the call slips in place so that the barcode can be easily scanned.
+
+**An issue is a change that needs to be changed or that needs to be performed by the assigned user--G1
 
 # Exhibit Policies and Procedures
 
