@@ -1,4 +1,4 @@
-Group 3
+workshop
 # Reading Room Manual
 
 Standardized practices for researchers handling archival materials are described below:
