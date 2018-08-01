@@ -1,3 +1,5 @@
+Group 2 - Documentation project
+
 # Reading Room Manual
 
 Standardized practices for researchers handling archival materials are described below:
